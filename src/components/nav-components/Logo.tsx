@@ -1,4 +1,4 @@
-import Image from '../../assets/Pawel-Baran-sign.jpg';
+import Image from '../../../src/assets/Pawel-Baran-sign.jpg';
 
 const Logo = () => {
 

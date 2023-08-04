@@ -14,9 +14,9 @@ const Skills = () => {
                 <SkillsIntro />
             </div>
             <div className="md:w-2/3 flex flex-col md:flex-row">
-                <SubCategory category='Technologies' img='/src/assets/coding-web.png' skills={technologiesList}/>
-                <SubCategory category='Software' img='/src/assets/Software-web.png' skills={softwareList}/>
-                <SubCategory category='Languages' img='/src/assets/Languages-web.png' skills={languagesList}/>
+                <SubCategory category='Technologies' img='/assets/coding-web.png' skills={technologiesList}/>
+                <SubCategory category='Software' img='/assets/Software-web.png' skills={softwareList}/>
+                <SubCategory category='Languages' img='/assets/Languages-web.png' skills={languagesList}/>
             </div>
         </div>
         {/* <div className="flex flex-col md:flex-row gap-x-10">

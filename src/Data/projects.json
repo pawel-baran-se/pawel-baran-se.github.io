@@ -2,28 +2,28 @@
     "projects": [
         {
             "name": "Food Trakker",
-            "gif": "/src/assets/FoodTrakker_App.gif",
+            "gif": "/assets/FoodTrakker_App.gif",
             "description": "It was developed using the SCRUM framework and is designed to help users locate food trucks in their area.\n\n The app can be used by food truck owners to promote their business and by hungry individuals looking for a quick and convenient meal. \nIt allows users to search for food trucks by location and browse through a list of options to find the perfect truck to suit their needs.\nWhether you're a food truck owner looking to attract new customers or a foodie in search of a delicious meal on the go, this app has something to offer.\n\nThe app is a collaborative project created by a team of four during a Bootcamp program and was the group's final project.",
             "stack": "c#, Entity Framework, Microsoft SQL Server, ASP.NET Core: MVC, Razor, REST API, Identity Framework, Automapper, Serilog, HTML, CSS, Bootstrap, JS, Scrum",
             "href": "https://github.com/pawel-baran-se/jcszr6-kawialeriaKlawiatury"
         },
         {
             "name": "Day Scheduler",
-            "gif": "/src/assets/DazSched_App.gif",
+            "gif": "/assets/DazSched_App.gif",
             "description": "The task scheduling application is a web application designed to help users organize and manage their daily tasks.<br><br>The backend, written in C#, includes functions for storing tasks in a database. <br>In addition to allowing users to create and view their tasks, the application also includes a feature that sends an email to the user every day with a list of the tasks they have scheduled for that day. This process is automated using a background worker. <br>Some additional features of the front end may include the ability to mark tasks as complete and set up notifications or reminders for upcoming tasks.<br><br>Overall, the task scheduling application aims to provide a helpful tool for users to stay organized and on top of their daily responsibilities",
             "stack": "C#, ASP.NET Core, REST API, SendGrid, MongoDb(NoSQL), Serilog, Jwt Token Authentication",
             "href": "https://github.com/pawel-baran-se/DaySchedulerApp"
         },
         {
             "name": "Chat",
-            "gif": "/src/assets/Chat_app.gif",
+            "gif": "/assets/Chat_app.gif",
             "description": "In this project, I learned how to use the SignalR framework to build real-time web applications in C#. <br><br>I implemented a chat application that allowed multiple users to send and receive messages in real time. <br>I also explored the use of hubs and persistent connections in SignalR to enable communication between the client and server. <br><br>Overall, this was a valuable learning experience that enhanced my understanding of C# and real-time web development.",
             "stack": "c#, JS, SignalR",
             "href": "https://github.com/pawel-baran-se/random/tree/main/SignalR_Chat_Application"
         },
         {
             "name": "Python apps",
-            "gif": "/src/assets/Python_app.gif",
+            "gif": "/assets/Python_app.gif",
             "description": " The first apps I made as a structural engineer to improved my efficiency by automating the calculation<br><br>WindCalcApp - A software tool for calculating windloads in Poland according to Eurocode standards.<br><br>Moment of Inertia app - A software tool for calculating the moment of inertia for an aluminium facade profile with a steel insert.",
             "stack": "Python, Tkinter",
             "href": "https://github.com/pawel-baran-se/VI-Projekt-Wind_Simple_Python_Application_For_WindLoad-simple-calcs"

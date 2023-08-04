@@ -27,9 +27,9 @@ export default {
         activeLink: '#0082f3'
       },
       backgroundImage: {
-        heroBackground: "url('/src/assets/IMG_4803_paint.png')",
-        linkedinBg: "url('/src/assets/linkedin.png')",
-        githubBg: "url('/src/assets/git2.png')",
+        heroBackground: "url('/assets/IMG_4803_paint.png')",
+        linkedinBg: "url('/assets/linkedin.png')",
+        githubBg: "url('/assets/git2.png')",
       },
       transitionDuration: {
         '1500': '1500ms',

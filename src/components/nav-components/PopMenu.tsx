@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Image from '../../assets/Menu-Icon.svg';
+import Image from '../../../src/assets/Menu-Icon.svg';
 import NavLink from './NavLink';
 
 const PopMenu = () => {
