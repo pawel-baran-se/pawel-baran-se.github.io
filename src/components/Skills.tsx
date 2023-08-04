@@ -8,7 +8,7 @@ const Skills = () => {
     const softwareList: string[] = ['Visual Studio', 'VS Code', 'Fork', 'RFEM Dlubal', 'SJ Mepla', 'Rhinoceros + Grasshopper', 'Autocad', 'Mathcad', 'SMath', 'Jira']; 
     const languagesList: string[] = ['Polish - Native', 'English - Advanced', 'German - Upper Intermediate']; 
 
-    return (<div id="Skills" className="w-screen bg-black flex flex-col inset-0 px-16 pr-12 pb-28">
+    return (<div id="Skills" className="w-screen bg-black flex flex-col inset-0 px-8 md:px-16 pr-12 pb-28">
         <div className="flex flex-col md:flex-row gap-x-10">
             <div className="md:w-1/3">
                 <SkillsIntro />

@@ -8,7 +8,7 @@ const Projects = () => {
     const projects: IProjectData[] = projectsData.projects;
 
     return (
-    <div id="Projects" className="w-screen bg-black flex flex-col md:flex-row justify-center inset-0 px-16 py-32 gap-x-6 gap-y-4">
+    <div id="Projects" className="w-screen bg-black flex flex-col md:flex-row justify-center inset-0 px-8 md:px-16 py-32 gap-x-6 gap-y-4">
         <div className="md:w-1/2">
             <ProjectsHeader />
             <ProjectCard data={projects[0]} />
