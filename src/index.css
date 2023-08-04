@@ -13,6 +13,10 @@
   --secondary-contact-menu-color: #ffffff;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   display: flex;
