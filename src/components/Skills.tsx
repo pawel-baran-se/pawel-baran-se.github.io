@@ -4,7 +4,7 @@ import SubCategory from "./skills-components/SubCategory";
 
 const Skills = () => {
 
-    const technologiesList: string[] = ['c#', '.NET Core', 'Git', 'ASP.NET API', 'SQL', 'RSET API', 'HTTP', 'Typescript', 'REACT', 'MongoDb', 'Docker']; 
+    const technologiesList: string[] = ['c#', '.NET Core', 'Git', 'ASP.NET API', 'SQL', 'REST API', 'HTTP', 'Typescript', 'REACT', 'MongoDb', 'Docker']; 
     const softwareList: string[] = ['Visual Studio', 'VS Code', 'Fork', 'RFEM Dlubal', 'SJ Mepla', 'Rhinoceros + Grasshopper', 'Autocad', 'Mathcad', 'SMath', 'Jira']; 
     const languagesList: string[] = ['Polish - Native', 'English - Advanced', 'German - Upper Intermediate']; 
 
