@@ -25,6 +25,13 @@ const HeroContex = () => {
             eager to deliver excellent code and drive successful projects. {'\n'}
             My passion for continuous learning keeps me at the top of my game.
             </p>
+            <br/>
+            <p className={contentStyleClass} >
+                <p className="text-red-500">
+                    Thank you for stopping by! Please note that website content was last updated in February 2023, <br/>
+                    and some information may no longer reflect most current work, projects, or offerings.
+                </p>
+            </p>
         </div>
     )
 }
